@@ -1,0 +1,6 @@
+Compound Components         - DONE 
+Provider Pattern            - DONE 
+Hooks store                 - DONE 
+Higher order component      
+Render Props            
+Component Injection
